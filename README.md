@@ -198,6 +198,7 @@ Saída esperada: `Tests  30 passed (30)`. Se algum falhar, **uma policy de RLS r
 ## 👩‍💻 Equipe
 
 **Lannara Silva** — Product + Design + Build
+**Matheus Saraiva** - Desenvolvedor
 Hackanation 2026 — TokenNation
 
 ---
